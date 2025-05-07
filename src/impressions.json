@@ -1,0 +1,4286 @@
+{
+    "impressions": [
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2024-02-18T17:27:49.514000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-02-18T03:44:54.214000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-02-18T16:18:02.138000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-02-17T19:29:08.021000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T03:42:04.621000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T03:38:13.637000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T15:05:32.380000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T17:22:31.739000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-19T13:50:05.772000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-19T15:29:42.182000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-17T19:28:30.144000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf63d6b6ef1ec58ed777dd",
+                "facility": {
+                    "id": "",
+                    "name": "Warren Memorial Hospital",
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17535",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2024-02-18T17:27:49.416000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67ae57f15916229ff8525006",
+                "facility": {
+                    "id": "",
+                    "name": "Hoonah Health Center",
+                    "city": "Hoonah",
+                    "state": "AK",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "OPC14080",
+                "pay_rate": 88.0,
+                "discipline": "nurse",
+                "contract_length": 22,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Outpatient Clinic"
+                    }
+                ],
+                "weekly_gross_compensation": 3520.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-01T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-14T15:04:33.731000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67ae57f15916229ff8525006",
+                "facility": {
+                    "id": "",
+                    "name": "Hoonah Health Center",
+                    "city": "Hoonah",
+                    "state": "AK",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "OPC14080",
+                "pay_rate": 88.0,
+                "discipline": "nurse",
+                "contract_length": 22,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Outpatient Clinic"
+                    }
+                ],
+                "weekly_gross_compensation": 3520.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-01T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-14T15:12:39.003000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67ae57f15916229ff8525006",
+                "facility": {
+                    "id": "",
+                    "name": "Hoonah Health Center",
+                    "city": "Hoonah",
+                    "state": "AK",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "OPC14080",
+                "pay_rate": 88.0,
+                "discipline": "nurse",
+                "contract_length": 22,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Outpatient Clinic"
+                    }
+                ],
+                "weekly_gross_compensation": 3520.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-01T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-14T15:04:33.652000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67ae57f15916229ff8525006",
+                "facility": {
+                    "id": "",
+                    "name": "Hoonah Health Center",
+                    "city": "Hoonah",
+                    "state": "AK",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "OPC14080",
+                "pay_rate": 88.0,
+                "discipline": "nurse",
+                "contract_length": 22,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Outpatient Clinic"
+                    }
+                ],
+                "weekly_gross_compensation": 3520.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-01T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-14T15:12:39.038000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "670e7bf3c812fcc60524d229",
+                "facility": {
+                    "id": "",
+                    "name": "Reston Hospital Center",
+                    "city": "Reston",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ORO39013",
+                "pay_rate": 59.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Operating Room"
+                    }
+                ],
+                "weekly_gross_compensation": 2052.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-10-28T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-28T14:58:26.059000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67c229fa956a5caeec313d84",
+                "facility": {
+                    "id": "",
+                    "name": "Copley Hospital",
+                    "city": "Morrisville",
+                    "state": "VT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21789",
+                "pay_rate": 64.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2304.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2025-02-28T23:57:18.314000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67c229fa956a5caeec313d84",
+                "facility": {
+                    "id": "",
+                    "name": "Copley Hospital",
+                    "city": "Morrisville",
+                    "state": "VT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21789",
+                "pay_rate": 64.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2304.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2025-02-28T23:57:18.200000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67883f6d911b9bef197f5201",
+                "facility": {
+                    "id": "",
+                    "name": "UMMH Memorial Medical Center - Memorial Campus",
+                    "city": "Worcester",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13874",
+                "pay_rate": 98.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Outpatient Clinic"
+                    }
+                ],
+                "weekly_gross_compensation": 3920.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-02-25T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-01-31T21:52:34.982000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67883f6d911b9bef197f5201",
+                "facility": {
+                    "id": "",
+                    "name": "UMMH Memorial Medical Center - Memorial Campus",
+                    "city": "Worcester",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13874",
+                "pay_rate": 98.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Outpatient Clinic"
+                    }
+                ],
+                "weekly_gross_compensation": 3920.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-02-25T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-01-31T21:52:35.029000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67a528083f3eace577f011f2",
+                "facility": {
+                    "id": "",
+                    "name": "Lawrence General Hospital",
+                    "city": "Lawrence",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC62386",
+                "pay_rate": 72.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "evenings"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical ICU (MICU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2880.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-09T00:13:24.149000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67a528083f3eace577f011f2",
+                "facility": {
+                    "id": "",
+                    "name": "Lawrence General Hospital",
+                    "city": "Lawrence",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC62386",
+                "pay_rate": 72.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "evenings"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical ICU (MICU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2880.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-09T00:12:43.582000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67a528083f3eace577f011f2",
+                "facility": {
+                    "id": "",
+                    "name": "Lawrence General Hospital",
+                    "city": "Lawrence",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC62386",
+                "pay_rate": 72.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "evenings"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical ICU (MICU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2880.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-09T00:13:24.149000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67a528083f3eace577f011f2",
+                "facility": {
+                    "id": "",
+                    "name": "Lawrence General Hospital",
+                    "city": "Lawrence",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC62386",
+                "pay_rate": 72.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "evenings"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical ICU (MICU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2880.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-09T00:12:43.622000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "68191ede4ee26b644f4f9143",
+                "facility": {
+                    "id": "",
+                    "name": "UConn John Dempsey Hospital (AKA UConn Health Center)",
+                    "city": "Farmington",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC22042",
+                "pay_rate": 72.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2880.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-06-02T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2025-05-06T13:06:56.380000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "68191ede4ee26b644f4f9143",
+                "facility": {
+                    "id": "",
+                    "name": "UConn John Dempsey Hospital (AKA UConn Health Center)",
+                    "city": "Farmington",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC22042",
+                "pay_rate": 72.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2880.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-06-02T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2025-05-06T13:06:55.965000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67d1a28870622263b7183732",
+                "facility": {
+                    "id": "",
+                    "name": "St Vincents Medical Center",
+                    "city": "Bridgeport",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21829",
+                "pay_rate": 67.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2680.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-07T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2025-03-12T21:06:10.202000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67a66a0ae05a72b301437c72",
+                "facility": {
+                    "id": "",
+                    "name": "St Lukes Hospital.",
+                    "city": "New Bedford",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21711",
+                "pay_rate": 66.0,
+                "discipline": "nurse",
+                "contract_length": 14,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2600.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": null,
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-20T22:53:09.148000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67a66a0ae05a72b301437c72",
+                "facility": {
+                    "id": "",
+                    "name": "St Lukes Hospital.",
+                    "city": "New Bedford",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21711",
+                "pay_rate": 66.0,
+                "discipline": "nurse",
+                "contract_length": 14,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2600.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": null,
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-20T22:53:09.109000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67d1a28870622263b7183732",
+                "facility": {
+                    "id": "",
+                    "name": "St Vincents Medical Center",
+                    "city": "Bridgeport",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21829",
+                "pay_rate": 67.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2680.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-07T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2025-03-12T21:06:09.928000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6793fb5b25fa55b9c06ed39c",
+                "facility": {
+                    "id": "",
+                    "name": "Bergan Mercy Surgery Center",
+                    "city": "Omaha",
+                    "state": "NE",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13890",
+                "pay_rate": 61.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Endoscopy"
+                    }
+                ],
+                "weekly_gross_compensation": 2440.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-02-17T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-01-25T23:37:24.938000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6793fb5b25fa55b9c06ed39c",
+                "facility": {
+                    "id": "",
+                    "name": "Bergan Mercy Surgery Center",
+                    "city": "Omaha",
+                    "state": "NE",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13890",
+                "pay_rate": 61.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Endoscopy"
+                    }
+                ],
+                "weekly_gross_compensation": 2440.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-02-17T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-01-25T23:37:24.934000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "665f28f270503943f1b2a22a",
+                "facility": {
+                    "id": "",
+                    "name": "Ascension Saint Agnes Hospital",
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17776",
+                "pay_rate": 61.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days\"",
+                    "\"mids\"",
+                    "\"nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 2196.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-07-02T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-06-13T17:23:03.126000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "66ec401bda51cc832849b9c0",
+                "facility": {
+                    "id": "",
+                    "name": "Northern Light Mayo Hospital",
+                    "city": "Dover-Foxcroft ",
+                    "state": "ME",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ORO38564",
+                "pay_rate": 65.35,
+                "discipline": "nurse",
+                "contract_length": 15,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Operating Room"
+                    }
+                ],
+                "weekly_gross_compensation": 2614.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-01-06T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-11-09T17:24:27.262000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "66ec401bda51cc832849b9c0",
+                "facility": {
+                    "id": "",
+                    "name": "Northern Light Mayo Hospital",
+                    "city": "Dover-Foxcroft ",
+                    "state": "ME",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ORO38564",
+                "pay_rate": 65.35,
+                "discipline": "nurse",
+                "contract_length": 15,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Operating Room"
+                    }
+                ],
+                "weekly_gross_compensation": 2614.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-01-06T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-11-09T17:24:57.484000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67ae12cf713b279d7dab9a48",
+                "facility": {
+                    "id": "",
+                    "name": "St Lukes Boise Medical Center",
+                    "city": "Boise",
+                    "state": "ID",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21723",
+                "pay_rate": 62.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2480.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-25T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2025-03-01T00:01:54.170000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67ae12cf713b279d7dab9a48",
+                "facility": {
+                    "id": "",
+                    "name": "St Lukes Boise Medical Center",
+                    "city": "Boise",
+                    "state": "ID",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21723",
+                "pay_rate": 62.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2480.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-25T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2025-03-01T00:01:54.037000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67f43d6ce35a81faea53e82b",
+                "facility": {
+                    "id": "",
+                    "name": "Goshen Health Hospital",
+                    "city": "Goshen",
+                    "state": "IN",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC63475",
+                "pay_rate": 60.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "4x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical ICU (MICU)"
+                    }
+                ],
+                "weekly_gross_compensation": 3120.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-15T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-04-12T12:07:28.558000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67f43d6ce35a81faea53e82b",
+                "facility": {
+                    "id": "",
+                    "name": "Goshen Health Hospital",
+                    "city": "Goshen",
+                    "state": "IN",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC63475",
+                "pay_rate": 60.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "4x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical ICU (MICU)"
+                    }
+                ],
+                "weekly_gross_compensation": 3120.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-15T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-04-12T12:07:28.521000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65821089327b334052939f01",
+                "facility": {
+                    "id": "",
+                    "name": "Beth Israel Deaconess Medical Center",
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "INF10801",
+                "pay_rate": 70.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "rotating"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Infusion Therapy"
+                    }
+                ],
+                "weekly_gross_compensation": 2520.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-01-29T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-07-17T19:53:00.937000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6728cef185074c5ed9a9e669",
+                "facility": {
+                    "id": "",
+                    "name": "St Francis Medical Center (VA)",
+                    "city": "Midlothian",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ORO39381",
+                "pay_rate": 67.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Operating Room"
+                    }
+                ],
+                "weekly_gross_compensation": 2920.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-18T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-11-04T15:34:45.342000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6728cef185074c5ed9a9e669",
+                "facility": {
+                    "id": "",
+                    "name": "St Francis Medical Center (VA)",
+                    "city": "Midlothian",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ORO39381",
+                "pay_rate": 67.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Operating Room"
+                    }
+                ],
+                "weekly_gross_compensation": 2920.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-18T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-11-04T15:34:19.297000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6728cef185074c5ed9a9e669",
+                "facility": {
+                    "id": "",
+                    "name": "St Francis Medical Center (VA)",
+                    "city": "Midlothian",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ORO39381",
+                "pay_rate": 67.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Operating Room"
+                    }
+                ],
+                "weekly_gross_compensation": 2920.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-18T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-11-04T15:42:42.481000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "672242cb69ff68c7139b3e2b",
+                "facility": {
+                    "id": "",
+                    "name": "Centra Lynchburg General Hospital",
+                    "city": "Lynchburg",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC59418",
+                "pay_rate": 61.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical ICU (MICU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2223.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-12-02T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-30T14:51:45.753000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6711843e94f058140e7c3ddd",
+                "facility": {
+                    "id": "",
+                    "name": null,
+                    "city": "Portland",
+                    "state": "ME",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC59005",
+                "pay_rate": 70.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": ""
+                    }
+                ],
+                "weekly_gross_compensation": 2543.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-24T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-25T22:34:48.100000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67be34fa8c19c086c8d5dee3",
+                "facility": {
+                    "id": "",
+                    "name": "Phoenix Childrens Hospital",
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21774",
+                "pay_rate": 70.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2800.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-24T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2025-03-12T21:04:00.568000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "665604ee6f2d2c77ce56d67c",
+                "facility": {
+                    "id": "",
+                    "name": "HCA Florida Fawcett Hospital (FKA Fawcett Memorial Hospital)",
+                    "city": "Port Charlotte",
+                    "state": "FL",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CMA13933",
+                "pay_rate": 51.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Case Management"
+                    }
+                ],
+                "weekly_gross_compensation": 2040.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-08-02T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-06-13T17:25:44.482000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "665604ee6f2d2c77ce56d67c",
+                "facility": {
+                    "id": "",
+                    "name": "HCA Florida Fawcett Hospital (FKA Fawcett Memorial Hospital)",
+                    "city": "Port Charlotte",
+                    "state": "FL",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CMA13933",
+                "pay_rate": 51.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Case Management"
+                    }
+                ],
+                "weekly_gross_compensation": 2040.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-08-02T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-06-13T17:24:44.262000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "665604ee6f2d2c77ce56d67c",
+                "facility": {
+                    "id": "",
+                    "name": "HCA Florida Fawcett Hospital (FKA Fawcett Memorial Hospital)",
+                    "city": "Port Charlotte",
+                    "state": "FL",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CMA13933",
+                "pay_rate": 51.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Case Management"
+                    }
+                ],
+                "weekly_gross_compensation": 2040.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-08-02T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-06-13T17:25:24.990000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67be34fa8c19c086c8d5dee3",
+                "facility": {
+                    "id": "",
+                    "name": "Phoenix Childrens Hospital",
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21774",
+                "pay_rate": 70.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2800.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-24T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2025-03-12T21:04:00.300000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "671a8bda4e915ed04772df74",
+                "facility": {
+                    "id": "",
+                    "name": "UNC Medical Center",
+                    "city": "Chapel Hill",
+                    "state": "NC",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "INF11018",
+                "pay_rate": 52.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Infusion Therapy"
+                    }
+                ],
+                "weekly_gross_compensation": 2080.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": null,
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-25T21:39:53.910000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "671a8bda4e915ed04772df74",
+                "facility": {
+                    "id": "",
+                    "name": "UNC Medical Center",
+                    "city": "Chapel Hill",
+                    "state": "NC",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "INF11018",
+                "pay_rate": 52.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Infusion Therapy"
+                    }
+                ],
+                "weekly_gross_compensation": 2080.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": null,
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-25T22:35:41.067000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "671a8bda4e915ed04772df74",
+                "facility": {
+                    "id": "",
+                    "name": "UNC Medical Center",
+                    "city": "Chapel Hill",
+                    "state": "NC",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "INF11018",
+                "pay_rate": 52.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Infusion Therapy"
+                    }
+                ],
+                "weekly_gross_compensation": 2080.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": null,
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-30T14:54:26.780000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67bf819f92c7f7119cb0dc15",
+                "facility": {
+                    "id": "",
+                    "name": "Hartford Hospital",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21779",
+                "pay_rate": 67.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2680.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-24T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2025-02-28T23:33:27.335000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67bf819f92c7f7119cb0dc15",
+                "facility": {
+                    "id": "",
+                    "name": "Hartford Hospital",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21779",
+                "pay_rate": 67.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2680.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-24T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-28T22:18:32.935000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67bf819f92c7f7119cb0dc15",
+                "facility": {
+                    "id": "",
+                    "name": "Hartford Hospital",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21779",
+                "pay_rate": 67.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2680.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-24T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2025-02-28T22:18:32.946000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67bf819f92c7f7119cb0dc15",
+                "facility": {
+                    "id": "",
+                    "name": "Hartford Hospital",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21779",
+                "pay_rate": 67.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2680.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-24T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2025-02-28T23:33:27.231000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6585a40143dab7d3238735c4",
+                "facility": {
+                    "id": "",
+                    "name": "UPMC Pinnacle Harrisburg",
+                    "city": "Harrisburg",
+                    "state": "PA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CVO12692",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days\"",
+                    "\"mids\"",
+                    "\"nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cardiovascular OR"
+                    }
+                ],
+                "weekly_gross_compensation": 2088.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-06-24T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-21T14:07:32.659000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65b29c46944ecc6273009503",
+                "facility": {
+                    "id": "",
+                    "name": "Winchester Medical Center",
+                    "city": "Winchester",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CAL17467",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cath Lab"
+                    }
+                ],
+                "weekly_gross_compensation": 2320.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-06-07T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-02-18T17:32:50.459000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65b29c46944ecc6273009503",
+                "facility": {
+                    "id": "",
+                    "name": "Winchester Medical Center",
+                    "city": "Winchester",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CAL17467",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cath Lab"
+                    }
+                ],
+                "weekly_gross_compensation": 2320.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-06-07T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-02-18T20:04:21.104000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65b29c46944ecc6273009503",
+                "facility": {
+                    "id": "",
+                    "name": "Winchester Medical Center",
+                    "city": "Winchester",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CAL17467",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cath Lab"
+                    }
+                ],
+                "weekly_gross_compensation": 2320.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-06-07T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T17:32:46.679000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65b29c46944ecc6273009503",
+                "facility": {
+                    "id": "",
+                    "name": "Winchester Medical Center",
+                    "city": "Winchester",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CAL17467",
+                "pay_rate": 58.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cath Lab"
+                    }
+                ],
+                "weekly_gross_compensation": 2320.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-06-07T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T20:04:15.640000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65c2c4fc39bdf687b6d2d810",
+                "facility": {
+                    "id": "",
+                    "name": "Shasta Regional Medical Center",
+                    "city": "Redding",
+                    "state": "CA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17516",
+                "pay_rate": 74.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 3108.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T17:36:19.067000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65c2c4fc39bdf687b6d2d810",
+                "facility": {
+                    "id": "",
+                    "name": "Shasta Regional Medical Center",
+                    "city": "Redding",
+                    "state": "CA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17516",
+                "pay_rate": 74.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 3108.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T17:28:01.513000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65c2c4fc39bdf687b6d2d810",
+                "facility": {
+                    "id": "",
+                    "name": "Shasta Regional Medical Center",
+                    "city": "Redding",
+                    "state": "CA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17516",
+                "pay_rate": 74.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 3108.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T19:42:41.494000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65c2c4fc39bdf687b6d2d810",
+                "facility": {
+                    "id": "",
+                    "name": "Shasta Regional Medical Center",
+                    "city": "Redding",
+                    "state": "CA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17516",
+                "pay_rate": 74.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 3108.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-18T20:03:51.905000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65c2c4fc39bdf687b6d2d810",
+                "facility": {
+                    "id": "",
+                    "name": "Shasta Regional Medical Center",
+                    "city": "Redding",
+                    "state": "CA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17516",
+                "pay_rate": 74.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 3108.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-19T13:47:53.491000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65c2c4fc39bdf687b6d2d810",
+                "facility": {
+                    "id": "",
+                    "name": "Shasta Regional Medical Center",
+                    "city": "Redding",
+                    "state": "CA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CCM17516",
+                "pay_rate": 74.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Critical Care"
+                    }
+                ],
+                "weekly_gross_compensation": 3108.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-04T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-17T19:24:27.155000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65ef0543f43aa648bbdabd4e",
+                "facility": {
+                    "id": "",
+                    "name": "The Hospital of Central Connecticut.",
+                    "city": "New Britain",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MST34413",
+                "pay_rate": 70.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical Surgical - Telemetry"
+                    }
+                ],
+                "weekly_gross_compensation": 2520.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-04-22T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-03-11T14:58:44.015000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65ef0543f43aa648bbdabd4e",
+                "facility": {
+                    "id": "",
+                    "name": "The Hospital of Central Connecticut.",
+                    "city": "New Britain",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MST34413",
+                "pay_rate": 70.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical Surgical - Telemetry"
+                    }
+                ],
+                "weekly_gross_compensation": 2520.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-04-22T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-03-11T14:58:07.570000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65ef0543f43aa648bbdabd4e",
+                "facility": {
+                    "id": "",
+                    "name": "The Hospital of Central Connecticut.",
+                    "city": "New Britain",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MST34413",
+                "pay_rate": 70.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical Surgical - Telemetry"
+                    }
+                ],
+                "weekly_gross_compensation": 2520.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-04-22T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-03-11T14:58:32.520000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67c46ba793e94bb5fbc5e498",
+                "facility": {
+                    "id": "",
+                    "name": "Porter Medical Center",
+                    "city": "Middlebury",
+                    "state": "VT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21791",
+                "pay_rate": 70.0,
+                "discipline": "nurse",
+                "contract_length": 16,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2800.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-14T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2025-03-02T16:12:25.296000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67192b7c737492b853de4dd8",
+                "facility": {
+                    "id": "",
+                    "name": "Cone Health Annie Penn Hospital",
+                    "city": "Reidsville",
+                    "state": "NC",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC59206",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 8,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cardiac Care Unit"
+                    }
+                ],
+                "weekly_gross_compensation": 2041.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-19T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-10-28T12:01:46.638000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67192b7c737492b853de4dd8",
+                "facility": {
+                    "id": "",
+                    "name": "Cone Health Annie Penn Hospital",
+                    "city": "Reidsville",
+                    "state": "NC",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC59206",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 8,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cardiac Care Unit"
+                    }
+                ],
+                "weekly_gross_compensation": 2041.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-19T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-28T12:01:59.858000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67192b7c737492b853de4dd8",
+                "facility": {
+                    "id": "",
+                    "name": "Cone Health Annie Penn Hospital",
+                    "city": "Reidsville",
+                    "state": "NC",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MIC59206",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 8,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cardiac Care Unit"
+                    }
+                ],
+                "weekly_gross_compensation": 2041.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-19T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-28T12:01:13.520000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67c46ba793e94bb5fbc5e498",
+                "facility": {
+                    "id": "",
+                    "name": "Porter Medical Center",
+                    "city": "Middlebury",
+                    "state": "VT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21791",
+                "pay_rate": 70.0,
+                "discipline": "nurse",
+                "contract_length": 16,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2800.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-04-14T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2025-03-02T16:12:25.161000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67b4099ad822b57219b1e1dd",
+                "facility": {
+                    "id": "",
+                    "name": "Hackensack Meridian Health Mountainside Medical Center",
+                    "city": "Montclair",
+                    "state": "NJ",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21738",
+                "pay_rate": 59.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2160.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-31T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2025-03-17T14:53:36.019000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67b4099ad822b57219b1e1dd",
+                "facility": {
+                    "id": "",
+                    "name": "Hackensack Meridian Health Mountainside Medical Center",
+                    "city": "Montclair",
+                    "state": "NJ",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21738",
+                "pay_rate": 59.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 2160.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-03-31T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2025-03-17T14:53:35.735000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6719e50acbd3e9913cf7f45f",
+                "facility": {
+                    "id": "",
+                    "name": "VCU Medical Center Main Hospital",
+                    "city": "Richmond",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13614",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Endoscopy"
+                    }
+                ],
+                "weekly_gross_compensation": 2279.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_external_application",
+            "timestamp": "2024-10-28T13:31:01.800000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6719e50acbd3e9913cf7f45f",
+                "facility": {
+                    "id": "",
+                    "name": "VCU Medical Center Main Hospital",
+                    "city": "Richmond",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13614",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Endoscopy"
+                    }
+                ],
+                "weekly_gross_compensation": 2279.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-10-25T21:41:15.029000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6719e50acbd3e9913cf7f45f",
+                "facility": {
+                    "id": "",
+                    "name": "VCU Medical Center Main Hospital",
+                    "city": "Richmond",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13614",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Endoscopy"
+                    }
+                ],
+                "weekly_gross_compensation": 2279.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-10-28T13:27:31.931000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6719e50acbd3e9913cf7f45f",
+                "facility": {
+                    "id": "",
+                    "name": "VCU Medical Center Main Hospital",
+                    "city": "Richmond",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13614",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Endoscopy"
+                    }
+                ],
+                "weekly_gross_compensation": 2279.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-25T21:41:09.558000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6719e50acbd3e9913cf7f45f",
+                "facility": {
+                    "id": "",
+                    "name": "VCU Medical Center Main Hospital",
+                    "city": "Richmond",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13614",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Endoscopy"
+                    }
+                ],
+                "weekly_gross_compensation": 2279.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-10-28T13:27:05.810000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6719e50acbd3e9913cf7f45f",
+                "facility": {
+                    "id": "",
+                    "name": "VCU Medical Center Main Hospital",
+                    "city": "Richmond",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "ENO13614",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "4x10",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Endoscopy"
+                    }
+                ],
+                "weekly_gross_compensation": 2279.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2024-10-28T13:31:01.796000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65ca3d3caf610031979442f8",
+                "facility": {
+                    "id": "",
+                    "name": "George Washington University Hospital",
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC19947",
+                "pay_rate": 55.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days\"",
+                    "\"mids\"",
+                    "\"nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 1980.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-02-26T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-02-19T13:46:50.894000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65ca3d3caf610031979442f8",
+                "facility": {
+                    "id": "",
+                    "name": "George Washington University Hospital",
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC19947",
+                "pay_rate": 55.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days\"",
+                    "\"mids\"",
+                    "\"nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 1980.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-02-26T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-19T13:46:35.588000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65cf7a54c2610eda4998fb53",
+                "facility": {
+                    "id": "",
+                    "name": "UPMC Hamot",
+                    "city": "Erie",
+                    "state": "PA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MES88134",
+                "pay_rate": 56.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days\"",
+                    "\"mids\"",
+                    "\"nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical-Surgical"
+                    }
+                ],
+                "weekly_gross_compensation": 2016.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-11T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-02-19T13:45:24.476000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67f3fc224a55bdef3bb8df8f",
+                "facility": {
+                    "id": "",
+                    "name": "Crane Center for Ambulatory Surgery at BMC",
+                    "city": "Pittsfield",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21936",
+                "pay_rate": 75.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 3000.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-05-19T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_application",
+            "timestamp": "2025-04-13T20:02:07.234000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65e76d562f253c18b15a9cd2",
+                "facility": {
+                    "id": "",
+                    "name": "Shenandoah Medical Center",
+                    "city": "Shenandoah",
+                    "state": "IA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "INF10818",
+                "pay_rate": 57.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days\"",
+                    "\"mids\"",
+                    "\"nights"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Infusion Therapy"
+                    }
+                ],
+                "weekly_gross_compensation": 2280.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-05-20T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-03-11T15:02:29.235000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "65e76d562f253c18b15a9cd2",
+                "facility": {
+                    "id": "",
+                    "name": "Shenandoah Medical Center",
+                    "city": "Shenandoah",
+                    "state": "IA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "INF10818",
+                "pay_rate": 57.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days\"",
+                    "\"mids\"",
+                    "\"nights"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Infusion Therapy"
+                    }
+                ],
+                "weekly_gross_compensation": 2280.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-05-20T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-03-11T15:02:21.623000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "6572c6f1b6d2b657f5e4dcee",
+                "facility": {
+                    "id": "",
+                    "name": "Saint Mary's Hospital",
+                    "city": "Waterbury",
+                    "state": "CT",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "MST32624",
+                "pay_rate": 59.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "nights"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Medical Surgical - Telemetry"
+                    }
+                ],
+                "weekly_gross_compensation": 2124.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-03-31T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-03-11T15:00:10.403000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67f3fc224a55bdef3bb8df8f",
+                "facility": {
+                    "id": "",
+                    "name": "Crane Center for Ambulatory Surgery at BMC",
+                    "city": "Pittsfield",
+                    "state": "MA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "PAC21936",
+                "pay_rate": 75.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "5x8",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Post-Anesthesia Care Unit (PACU)"
+                    }
+                ],
+                "weekly_gross_compensation": 3000.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2025-05-19T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2025-04-13T20:02:06.992000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67246d5827913578b59fd8b6",
+                "facility": {
+                    "id": "",
+                    "name": "University Of Virginia Medical Center",
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CVO13473",
+                "pay_rate": 69.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cardiovascular OR"
+                    }
+                ],
+                "weekly_gross_compensation": 2788.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-25T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "new_external_application",
+            "timestamp": "2024-11-01T12:11:39.703000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67246d5827913578b59fd8b6",
+                "facility": {
+                    "id": "",
+                    "name": "University Of Virginia Medical Center",
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CVO13473",
+                "pay_rate": 69.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cardiovascular OR"
+                    }
+                ],
+                "weekly_gross_compensation": 2788.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-25T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "app_start",
+            "timestamp": "2024-11-01T12:09:04.118000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67246d5827913578b59fd8b6",
+                "facility": {
+                    "id": "",
+                    "name": "University Of Virginia Medical Center",
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CVO13473",
+                "pay_rate": 69.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cardiovascular OR"
+                    }
+                ],
+                "weekly_gross_compensation": 2788.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-25T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "view",
+            "timestamp": "2024-11-01T12:08:49.159000+00:00"
+        },
+        {
+            "job_post": {
+                "id": "67246d5827913578b59fd8b6",
+                "facility": {
+                    "id": "",
+                    "name": "University Of Virginia Medical Center",
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "zip": "",
+                    "photos": null,
+                    "facility_type": null,
+                    "health_system_name": null,
+                    "address": ""
+                },
+                "roi_score": null,
+                "title": "",
+                "code": "CVO13473",
+                "pay_rate": 69.0,
+                "discipline": "nurse",
+                "contract_length": 13,
+                "job_type": "travel",
+                "shift_types": [
+                    "days"
+                ],
+                "shift_hours_and_days": "3x12",
+                "specializations": [
+                    {
+                        "id": "",
+                        "name": "Cardiovascular OR"
+                    }
+                ],
+                "weekly_gross_compensation": 2788.0,
+                "last_published": null,
+                "attributes": {},
+                "start_date": "2024-11-25T00:00:00+00:00",
+                "required_certifications": null,
+                "user": null,
+                "ml": null,
+                "score": null,
+                "pagination_token": null
+            },
+            "impression_type": "application_submitted",
+            "timestamp": "2024-11-01T12:11:39.701000+00:00"
+        }
+    ]
+}
