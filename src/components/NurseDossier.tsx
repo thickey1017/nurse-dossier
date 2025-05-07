@@ -3,12 +3,13 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Phone, Mail, TrendingUp, Clock, MapPin, DollarSign, MessageSquare } from "lucide-react";
 
 import Timeline from "./Timeline";
+import RecruiterTimeline from "./RecruiterTimeline";
 import OutreachMessages from "./OutreachMessages";
 import TileInsights from "./TileInsights";
 import AskClara from "./AskClara";
 import { useToast } from "@/hooks/use-toast";
 import impressionsData from "../impressions.json";
-import { ClinicianDossierResponse } from "@/types/api";
+import { ClinicianDossierResponse, RecruiterEngagement } from "@/types/api";
 
 // Mock data
 const insights: ClinicianDossierResponse = {
@@ -45,6 +46,44 @@ const insights: ClinicianDossierResponse = {
     }
   ],
   most_recent_impressions: []
+};
+
+const recruiterEngagement: RecruiterEngagement = {
+  client_name: "Matt Littlehale",
+  recruiter_name: "Sarah Johnson",
+  engagement_period: "March 2024 - Present",
+  highlights: [
+    {
+      date: "2024-03-15T10:00:00Z",
+      highlight_type: "First Contact",
+      description: "Initial outreach via email regarding PACU opportunities in the Northeast region."
+    },
+    {
+      date: "2024-03-16T14:30:00Z",
+      highlight_type: "First Call",
+      description: "Scheduled and completed first phone call to discuss career goals and preferences."
+    },
+    {
+      date: "2024-03-17T09:15:00Z",
+      highlight_type: "Document Exchange",
+      description: "Received and reviewed updated resume and certifications."
+    },
+    {
+      date: "2024-03-18T11:45:00Z",
+      highlight_type: "Job Search Update",
+      description: "Shared three PACU positions matching preferences in CT and MA."
+    },
+    {
+      date: "2024-03-19T16:20:00Z",
+      highlight_type: "Application Progress",
+      description: "Started application process for PACU position at Hartford Hospital."
+    },
+    {
+      date: "2024-03-20T13:10:00Z",
+      highlight_type: "Recent Activity",
+      description: "Completed application for Hartford Hospital position and expressed interest in two other opportunities."
+    }
+  ]
 };
 
 const nurseSummary = {
@@ -135,7 +174,9 @@ const NurseDossier = () => {
         <div className="lg:col-span-2 flex flex-col gap-8">
           <TileInsights tiles={insights.tiles} />
           <AskClara />
-
+          <div className="rounded-lg border border-gray-200 bg-white shadow-sm p-6">
+            <RecruiterTimeline engagement={recruiterEngagement} />
+          </div>
           <OutreachMessages 
             messages={outreachMessages}
             onEdit={handleEditMessage}
