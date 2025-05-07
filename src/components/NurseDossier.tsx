@@ -3,148 +3,57 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Phone, Mail, TrendingUp, Clock, MapPin, DollarSign, MessageSquare } from "lucide-react";
 
 import Timeline from "./Timeline";
-import JobPreferences from "./JobPreferences";
-import JobRecommendations from "./JobRecommendations";
 import OutreachMessages from "./OutreachMessages";
 import TileInsights from "./TileInsights";
 import AskClara from "./AskClara";
 import { useToast } from "@/hooks/use-toast";
 import impressionsData from "../impressions.json";
+import { ClinicianDossierResponse } from "@/types/api";
 
 // Mock data
-const insights = {
+const insights: ClinicianDossierResponse = {
+  executive_summary: "The nurse has shown consistent interest in PACU positions across multiple states, with a preference for day shifts and competitive compensation.",
+  new_user: false,
   tiles: [
     {
-      description: "Most recent activity",
+      label: "Most recent activity",
       value: "The most recent activity was on 2025-05-06, where the nurse submitted an application for a PACU position in Farmington, CT"
     },
     {
-      description: "Bursts of viewing",
+      label: "Bursts of viewing",
       value: "There were bursts of activity on February 18, 2024 and February 28, 2025"
     },
     {
-      description: "Preferred Specializations",
+      label: "Preferred Specializations",
       value: "The nurse seems most interested in Post-Anesthesia Care Unit (PACU)"
     },
     {
-      description: "Pay Preferences",
+      label: "Pay Preferences",
       value: "The nurse has viewed jobs with weekly gross compensation ranging from $1980 to $3920, indicating a willingness to consider a broad range of pay rates. However, they applied for jobs ranging from $2160 to $3000."
     },
     {
-      description: "Shift Preferences",
+      label: "Shift Preferences",
       value: "The nurse seems to prefer day shifts and 4x10 or 5x8 hour shifts, but has also shown interest in 3x12 shifts and night shifts."
     },
     {
-      description: "Location Preferences",
+      label: "Location Preferences",
       value: "The nurse has viewed jobs in VA, CT, MA, NE, AK, PA, ID, NJ, ME, IA, IN, DC, AZ, and CA. They seem open to opportunities across the country, but have submitted applications to jobs primarily in CT, MA, VT, and AZ"
     },
     {
-      description: "Notable Patterns",
+      label: "Notable Patterns",
       value: "The nurse has applied to a number of PACU positions. The nurse frequently views the same job multiple times before applying. They often start applications, and then submit them later. They seem to prefer travel positions. They are applying to jobs with start dates approximately 1-2 months out."
     }
-  ]
+  ],
+  most_recent_impressions: []
 };
 
 const nurseSummary = {
   name: "Matt Littlehale, RN, BSN",
   phone: "+1 (555) 123-4567",
   email: "i_love_ninja_turtles@email.com",
-  summary: insights.tiles.find(tile => tile.description === "Notable Patterns")?.value || "",
+  summary: insights.tiles.find(tile => tile.label === "Notable Patterns")?.value || "",
   avatarUrl: "https://ca.slack-edge.com/T0996AW94-U03NN0D5F61-0e34f408f8ba-512",
 };
-
-const timelineEvents = [
-  {
-    id: "1",
-    date: "May 5, 2025 • 2:15 PM",
-    title: "Applied to ICU Position at Providence Hospital",
-    description: "Sarah submitted her application for the 13-week ICU position in Seattle.",
-    type: "application" as const,
-  },
-  {
-    id: "2",
-    date: "May 4, 2025 • 11:30 AM",
-    title: "Viewed ER Position at UCSF Medical Center",
-    description: "Spent 4 minutes reviewing job details.",
-    type: "view" as const,
-  },
-  {
-    id: "3",
-    date: "May 2, 2025 • 9:45 AM",
-    title: "Message Sent by Recruiter Jane",
-    description: "Follow-up on application status for Kaiser Permanente position.",
-    type: "message" as const,
-  },
-  {
-    id: "4",
-    date: "Apr 28, 2025 • 3:20 PM",
-    title: "Applied to PACU Role at Stanford Hospital",
-    description: "Sarah submitted her application for the 8-week PACU position.",
-    type: "application" as const,
-  },
-  {
-    id: "5",
-    date: "Apr 25, 2025 • 10:15 AM",
-    title: "Phone Interview Scheduled",
-    description: "For UCLA Medical Center ICU position on May 7th at 2PM.",
-    type: "interview" as const,
-  },
-];
-
-const jobPreferences = [
-  {
-    category: "Specialties",
-    values: ["Med Surg (16 views)", "ICU (10 views)", "ED (2 views)"],
-  },
-  {
-    category: "Locations",
-    values: ["California (15 views)", "Washington (8 views)", "Oregon (5 views)"],
-  },
-  {
-    category: "Shift Type",
-    values: ["Night Shift (28 views)"],
-  },
-  {
-    category: "Contract Length",
-    values: ["13 weeks (14 views)", "8 weeks (14 views)"],
-  }
-];
-
-const jobRecommendations = [
-  {
-    id: "job1",
-    title: "ICU Registered Nurse",
-    facility: "UCSF Medical Center",
-    location: "San Francisco, CA",
-    pay: "$5,200/week",
-    shift: "Night Shift",
-    duration: "13 weeks",
-    matchScore: 94,
-    tags: ["ICU", "Level I Trauma", "Teaching"],
-  },
-  {
-    id: "job2",
-    title: "ER Registered Nurse",
-    facility: "Providence Swedish Medical Center",
-    location: "Seattle, WA",
-    pay: "$4,800/week",
-    shift: "Day Shift",
-    duration: "13 weeks",
-    matchScore: 90,
-    tags: ["Med Surg", "Level I Trauma"],
-  },
-  {
-    id: "job3",
-    title: "PACU Registered Nurse",
-    facility: "OHSU Hospital",
-    location: "Portland, OR",
-    pay: "$4,600/week",
-    shift: "Day/Night Rotation",
-    duration: "8 weeks",
-    matchScore: 85,
-    tags: ["Med Surg", "Signing Bouns"],
-  },
-];
 
 const outreachMessages = [
   {
@@ -227,11 +136,6 @@ const NurseDossier = () => {
           <TileInsights tiles={insights.tiles} />
           <AskClara />
 
-          {/* TPH - Not showing for now
-          <JobPreferences preferences={jobPreferences} />
-          <JobRecommendations recommendations={jobRecommendations} />
-          */}
-
           <OutreachMessages 
             messages={outreachMessages}
             onEdit={handleEditMessage}
@@ -241,10 +145,7 @@ const NurseDossier = () => {
 
         {/* Right Column */}
         <div className="rounded-lg border border-gray-200 bg-white shadow-sm p-6">
-          {/* TPH - saving in case referencing JSON fails
-          <Timeline events={timelineEvents} />
-           */}
-          <Timeline impressions={impressionsData.impressions} />
+          <Timeline impressions={impressionsData.impressions as ClinicianDossierResponse['most_recent_impressions']} />
         </div>
       </div>
     </div>
